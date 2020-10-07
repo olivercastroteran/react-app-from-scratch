@@ -1,0 +1,23 @@
+{
+  "name": "react-app-from-scratch",
+  "version": "1.0.0",
+  "description": "react app boilerplate from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivercastroteran/react-app-from-scratch.git"
+  },
+  "author": "Oliver Castro Teran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olivercastroteran/react-app-from-scratch/issues"
+  },
+  "homepage": "https://github.com/olivercastroteran/react-app-from-scratch#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
